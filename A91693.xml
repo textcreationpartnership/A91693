@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Kings Majesties subjects in the county of Cornwall, and their declaring for his Majesty, and the Prince of Wales, and their fight with the Parliaments forces near Tavestock in Cornwall, with the particulars thereof, and the number killed and taken prisoners. Also the declaration of the sea-royalists, for God and King Charles, and their entering of the town of Portsmouth, and advancing up to the market place, and a defeat given to Lieutenant Generall Cromwells forces neare Pontefraact in Yorkshire, and the number that were taken, and carryed prisoners too Pontefract Castle. Likewise a declaration of the citizens of London, for the raising of new forces, to defend the said city against any opposition whatsoever. Signed in the name, and by the warrant of the committee of the militia of the City of London. A. Bankes, Cler.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91693</idno><idno type="EEBO-CITATION">99864490</idno>
+  <idno type="VID">162049</idno>
+  <idno type="EEBO-PROQUEST">2248528504</idno>
+  
+            <idno type="STC">Wing R1150</idno>
+            <idno type="STC">Thomason E456_18</idno>
+            <idno type="STC">ESTC R205046</idno>
+            <idno type="PROQUEST">99864490</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864490e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162049)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Kings Majesties subjects in the county of Cornwall, and their declaring for his Majesty, and the Prince of Wales, and their fight with the Parliaments forces near Tavestock in Cornwall, with the particulars thereof, and the number killed and taken prisoners. Also the declaration of the sea-royalists, for God and King Charles, and their entering of the town of Portsmouth, and advancing up to the market place, and a defeat given to Lieutenant Generall Cromwells forces neare Pontefraact in Yorkshire, and the number that were taken, and carryed prisoners too Pontefract Castle. Likewise a declaration of the citizens of London, for the raising of new forces, to defend the said city against any opposition whatsoever. Signed in the name, and by the warrant of the committee of the militia of the City of London. A. Bankes, Cler.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Jones, and are to be sold neer Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Cornwall (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162049:1"/>
+            <p>THE RESOLUTION OF The Kings Majesties Subjects in the County of <hi>Cornwall,</hi> and their declaring for his Majesty, and the Prince of Wales, and their Fight with the Parliaments Forces near <hi>Tavestock</hi> in <hi>Cornwall,</hi> with the particulars thereof, and the number killed and taken prisoners.</p>
+            <p>Also the Declaration of the Sea-Royalists, for <hi>God and King Charles,</hi> and their entering of the Town of <hi>Portsmouth,</hi> and advancing up to the Market place, And a Defeat given to Lieutenant Generall <hi>Cromwells</hi> For<g ref="char:EOLhyphen"/>ces neare <hi>Pontefract</hi> in <hi>Yorkshire,</hi> and the number that were taken, and carryed prisoners to <hi>Pontefract</hi> Castle.</p>
+            <p>Likewise a Declaration of the Citizens of <hi>London,</hi> for the raising of new forces, to defend the said City against any opposition whatsoever.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>SIgned in the Name, and by the Warrant of the Committee of the Mi<g ref="char:EOLhyphen"/>litia of the City of London.</p>
+                        <closer>
+                           <signed>A. Bankes, Cler.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for J. Jones, and are to be sold neer <hi>Temple-Barne.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162049:2"/>
+            <pb n="1" facs="tcp:162049:2"/>
+            <head>A Fight at <hi>Portsmouth,</hi> between the Seamen and the Souldiers, and their entering the Town, and declaring for the <hi>KJNG,</hi>
+            </head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>THe happinesse and the blessings of Peace, which we have for many months last past, enjoyed, be<g ref="char:EOLhyphen"/>gins to be now in these future dayes eclipsed; for about <hi>Tavestock</hi> in <hi>Cornwall,</hi> they begin to assemble toge<g ref="char:EOLhyphen"/>ther in great numbers and multitudes, and rise in severall other parts, there are about <hi>Tavestock</hi> 300. in Armes, and have declared for the <hi>King</hi> and Prince <hi>Charles,</hi> protesting to hazard lives and fortunes in this their Engagement; &amp; to oppose all forces whatsoever, that do resist <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he said power, and it is to be feared, if they be not blasted in the Bud, they will swell in a short time, &amp; spring up to great maturity and ripenesse; but we hear that Col. Sir <hi>Ha dress Waller</hi> hath sent some forces to suppresse them, the wel<g ref="char:EOLhyphen"/>affected of the County rise freely with him, he is increa<g ref="char:EOLhyphen"/>sing
+<pb n="2" facs="tcp:162049:3"/>his number, in case the enemy should be numerous, Si <hi>Hardresse</hi> drawes up a Brigade to march upon occasi<g ref="char:EOLhyphen"/>on. The wel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ff <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being partly sensible of the dan<g ref="char:EOLhyphen"/>ger that hangs over them by a forreign force, which are daily expected, begin to provide against the storm, and if the number be not very great, are considering with Sir <hi>Hardresse</hi> his conjunction to dispute it with them.</p>
+            <p>We hear that a party of Sir <hi>Hardresses</hi> horse, hath lately fallen upon some of them about <hi>Barnstable,</hi> and after some dispute, took above 20. prisoners; and killed five of them.</p>
+            <p>From <hi>Portsmouth</hi> we hear, that the Soldierie are much discontented, but the Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men far more, being much wrought upon by the Royall party, who have instructi<g ref="char:EOLhyphen"/>ons from others abroad; the Seamen must appear, and at the Design, for which purpose about 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. came a shore, entered the Town, and came up to the Market place, where they declated their Resolution to hazard their Lives and Fortunes, for the defence and preservation of the King of <hi>England,</hi> and the Prince of <hi>Wales,</hi> against all apposition whatsoever: This puts the Governour, and the other of South Sea Castle to a stand, The Allarm is given to the Souldiery, they advance, the Seamen maintains their ground some action happened, and the quarrell was resolutely disputed by both parties, till at the last, the Seamen retreat, the Souldiers pursue, and in the pursuit took some prisoners and forced the rest out of he Cates, which being shut all was pacified: The plot took not with the discontented Souldiery, as was presupposed, but the Seamen threaten a revenge.</p>
+            <closer>
+               <dateline>Torrington <date>July the 28. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:162049:3"/>
+            <head>The Copy of a letter from the North, touching a Defeat given to Licut Gen. Cromwells forces near Pontefract.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>COllonel <hi>Bonovant,</hi> having received intelligence of the dvancing of Lieut. Gen. <hi>Cromwells</hi> norse into these parts, and that they intended to crosse over at the River of <hi>Gesse,</hi> 8. miles from <hi>Pontefract,</hi> to joyn with M. G. <hi>Lambert,</hi> he drew out a party consisting of 200. horse, and marched to the said place, where he found some in a very disorderly posture; and after a short dispute, he returned to the Castle again, and brought along with him about 15. prisoners, who at their coming into the Castle, a great shout was given by the Souldiery, and others, saying, <hi>That Cromwell and his J<g ref="char:EOLhyphen"/>ron sides were now taken,</hi> &amp; the bells of the upper Town were commanded to ring for joy. This morning we received in<g ref="char:EOLhyphen"/>telligence, that <hi>Scarborough</hi> Castle was revolted from the Parliament, and had declared for the King, which might have been long before presupposed.</p>
+            <p>The discontents and jealousies of many there, have been very great, occasioned by some hint of the Governors trea<g ref="char:EOLhyphen"/>chery, which was suspected many wayes, 1, By turning out Capt. <hi>Lawson,</hi> a faithfull honest man, that long served in that gar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on. 2. By countenancing all disaffected persons theirin, and discountenancion the rest. 3. By procuring a ship for carrying away his Malignant kinsman, and other Cavaliers with him, and giving great entertainment to the Kings party, with whon he was very frequent. 4. By ex<g ref="char:EOLhyphen"/>pressi g some ill placed words, now confirmed by the Go<g ref="char:EOLhyphen"/>voverner, Collonell <hi>Bointons</hi> declaring, which is for the King and Prince <hi>Charles,</hi> his discontents, rather then hopes of a Reward, prompts him to a desperate adventure, having
+<pb n="4" facs="tcp:162049:4"/>had no pay, either for himselfe, or souldiers for many Moneths together, and though his Declaration be rash, yet he admits of none of the Royall party to enter; and if an overture of Indempaity, with a considerable sum for him<g ref="char:EOLhyphen"/>selfe and Souldiers were made, the diference might be com<g ref="char:EOLhyphen"/>posed: We further heare that Lievtenant General <hi>Cromwells</hi> horse, consisting of 30 odde Troops joyned with Major G. <hi>Lambert</hi> the 27. which no sooner came neere the Major Generalls further quarters, but fell upon action with asmall party with which they resolved to try the Scots Scouts, who forced them to retreat within 2 miles of <hi>Appleby,</hi> where their maine guard was, the Scots advance not, nor hath the Major Generall given ground this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o daies and upwards, no action betwene them, onely the Scouts somtimes dis<g ref="char:EOLhyphen"/>pure it.</p>
+            <p>The Major Generall encreases da ly, his number consists of nine thousand, and with the foot of the Lieut. Generall with other forces (joyned with him in Nottingham, Lei<g ref="char:EOLhyphen"/>cester, and Derbyshire, which will compleat 5000) his Ar<g ref="char:EOLhyphen"/>my will be very numerous, and more offensive.</p>
+            <p>The Letters seized this day in two ships bound for <hi>Scoi<g ref="char:EOLhyphen"/>land,</hi> and brought to the Committee at Derby house, will discover much Rogery, when reported to morrow to the house; The armes are seized on, and the ships secured till further order. Lieutenant Generall <hi>Cromwell</hi> is to be for certain to morrow night at Nottingham from whence he speedily advances after he hath joyned with other Forces of those parts; The great additionall Army of Scots mar<g ref="char:EOLhyphen"/>ching into England, appear to be no otherwise then a Re<g ref="char:EOLhyphen"/>giment of 600 poor Scots that are come to take possession of B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rwick, who say all is their own on this fide Trent.</p>
+            <pb n="5" facs="tcp:162049:4"/>
+            <p>Yesterday the Castle forces, made a sally out upon Sir Hugh <hi>Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmleies</hi> forces neere Ferriebridge, engaged for the space of two hours, and made good their retreat, and re<g ref="char:EOLhyphen"/>turned with little losse, they brought in on Mr. <hi>Resse,</hi> (a Country Gentleman) prisoner with them, we heare that the additionall forces are come out of Scotland, and 4 Ro<g ref="char:EOLhyphen"/>giments joyned with Duke <hi>Hamiltons</hi> forces, their whole body now consisting of about 18000. Horse and Foot, yet notwithstanding all their potent powers, they have but little stomack to engage with M. G. <hi>Lambert,</hi> who remains with his forces about <hi>Barnard</hi> Castle, and doth daily ex<g ref="char:EOLhyphen"/>pect the additionall forces to come up to them which if once effected, will prove more offensive then defensive, for his forces increase daily, and he maintains the sield, and keepes his ground, his Souldiery begins to be in action, and sometimes the Scots and they dispute it, which is all at present from,</p>
+            <closer>
+               <dateline>
+                  <hi>Pontefract, Upper town</hi>
+                  <date>
+                     <hi>July</hi> 39. 1648.</date>
+               </dateline>
+               <signed>Your most assured Friend Tho: Derton.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Declaration of the Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> concerning their listing and raising of forces, for the safety and preservation of the said City.</head>
+            <p>FOr as much as this Court did apprehend the great dan<g ref="char:EOLhyphen"/>ger the Parliament and City is in, in regard of the many Commotions in this Kingdom, and the distractions thereof.
+<pb n="6" facs="tcp:162049:5"/>And that a convenient number of Horse to joyn with the other Forces of this City, would be very usefull and servi<g ref="char:EOLhyphen"/>ceable for the safety and preservation both of Parliament &amp; City: The efore this Court doth now Declare, that it shall be taken as an acceptable service in any that will volunta<g ref="char:EOLhyphen"/>ly Lift any Horse, or contribute any Money their unto, a d declare themselves theirin unto the Committee of the <hi>Militia</hi> of <hi>London;</hi> And to be under such Commanders, and observe such directions (tending to the welfare and safety of the Parliament and City) as the said Committee of the Militia shall appoint. And the said Committee are to appoint Treasurers to receive such Moneys, Horse, and Armes as shall bee voluntarily advanced towards that work, and to take Subscriptions to that purpose, and to be by them employed accordingly: And they are from time to time to acquaint this Court of their progresse and proce<g ref="char:EOLhyphen"/>dings theirin; and to receive their further directions concer<g ref="char:EOLhyphen"/>ning the same, as occasion shall require, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Michel.</hi>
+            </p>
+            <p>
+               <hi>In pursuance of which Act of Common Councell, there are severall Members of the Committee of the Militia appointed to sit daily in</hi> Guildhall, <hi>in the</hi> Irish-Court. <hi>to take the said Subscriptions above men<g ref="char:EOLhyphen"/>tioned; and are to sit from</hi> 9. <hi>till</hi> 12 <hi>of the clock in the forenoon, and from</hi> 3. <hi>till</hi> 6. <hi>of the clock in the afternoon.</hi>
+            </p>
+            <p>
+               <hi>Mr.</hi> Glyd, <hi>and Mr.</hi> Blackwall <hi>are desired and appointed to bee Treasurers.</hi>
+            </p>
+            <closer>
+               <dateline>Dated at Guildhall London, <date>the 31. of July, 1648.</date>
+               </dateline>
+               <signed>Signed in the Name and by the Warrant of the Committee of the Militia of London. By <hi>Adam Banckes'</hi> Cleric. to the said Committee.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
